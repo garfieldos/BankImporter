@@ -1,0 +1,4 @@
+#Data operacji;#Data księgowania;#Opis operacji;#Tytuł;#Nadawca/Odbiorca;#Numer konta;#Kwota;#Saldo po operacji;
+2016-01-05;2016-01-05;PRZELEW ZEWNĘTRZNY PRZYCHODZĄCY;"przelew środków";"Maciek z klanu so z.o.o";'14139833035072956522683561';3 000,00;-6 941,23;
+2016-01-10;2016-01-10;PRZELEW WEWNĘTRZNY PRZYCHODZĄCY;"WARSZTAT";"Han Solo";'89902430931639990042643057';81,00;-7 499,64;
+2016-01-12;2016-01-12;PRZELEW ZEWNĘTRZNY PRZYCHODZĄCY;"przelew środków";"Grzegosz brzęczyszczykiewicz inc";'66398878297545534503941749';2 000,00;-7 876,12;
